@@ -1,9 +1,7 @@
+import Router from "./Routes/routes";
+
 function App() {
-  return (
-    <div>
-      <h1>Encurtador de link</h1>
-    </div>
-  );
+  return <Router />;
 }
 
 export default App;
